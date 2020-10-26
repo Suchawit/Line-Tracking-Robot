@@ -9,3 +9,4 @@
 * Designing the Solid Work of the outer shell of the robot
 
 ##### STM32F407 Microcontroller: #####
+![alt text](http://url/to/img.png)
