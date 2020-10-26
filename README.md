@@ -1,5 +1,5 @@
 # Line-Tracking-Robot
-### This project is from the UVic 299 course ###
+### This project is from the UVic 299 course 2017 ###
 
 #### Objectives of the project: #####
 * To analyze and set up the steps of building the robot. 
