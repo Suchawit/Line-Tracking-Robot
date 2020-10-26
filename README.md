@@ -10,7 +10,7 @@
 
 # Heading 1 #
 
-   // Enable the clock to the GPIO D-port
+    // Enable the clock to the GPIO D-port
     //
         __HAL_RCC_GPIOE_CLK_ENABLE();
 
@@ -30,7 +30,7 @@
         GPIO_Init.Pull = GPIO_PULLDOWN; //No pull-up resistor is needed
         GPIO_Init.Alternate = 0; // No alternate function is being used
                 HAL_GPIO_Init( GPIOA, &GPIO_Init ); //commandline to initialize the GPIO port
- // define a variable called Counter
+      // define a variable called Counter
  
 ##### STM32F407 Microcontroller: #####
 ![alt text](https://github.com/Suchawit/Line-Tracking-Robot/blob/main/Robot_without_case.jpg)
