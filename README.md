@@ -122,7 +122,7 @@
                trace_printf(" x = %d", x);
                                                  x = 0;
                                                    }
-## Demo Cick to watch
+## Demo Click below image to watch
 
 [![Watch the video](https://github.com/Suchawit/Line-Tracking-Robot/blob/main/Robot_without_case.jpg)](https://youtu.be/m0jlfqc-8eE)
 
