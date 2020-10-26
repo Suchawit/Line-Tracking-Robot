@@ -35,16 +35,8 @@
 
 ![alt text](https://github.com/Suchawit/Line-Tracking-Robot/blob/main/Robot_without_case.jpg)
 
-         // Turn-on the LED
-int x =0;
-// Infinite loop
-  while (1){
 
-//Code to toggle LED using a counting logic.
-//please change the number 320,000,000 to (i) 32,000,000 (ii) 3,200,000 and (iii) 320,000.
-//Please use a stop watch to measure how long it takes to toggle.
-//Also, check if you can see the toggling effect
-     if ((  HAL_GPIO_ReadPin(GPIOA, GPIO_PIN_0) && x==0 ))
+       if ((  HAL_GPIO_ReadPin(GPIOA, GPIO_PIN_0) && x==0 ))
         {
     	 HAL_GPIO_WritePin( GPIOE, GPIO_PIN_8|GPIO_PIN_9|GPIO_PIN_10|GPIO_PIN_11|GPIO_PIN_13|GPIO_PIN_14, GPIO_PIN_RESET );
     	      HAL_GPIO_WritePin( GPIOE, GPIO_PIN_8|GPIO_PIN_9|GPIO_PIN_10|GPIO_PIN_11|GPIO_PIN_12|GPIO_PIN_14 , GPIO_PIN_SET );
