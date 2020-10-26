@@ -8,7 +8,7 @@
 * Writing the code for the IR sensor and the code for adjusting the movement of the robot using STM microcontroller
 * Designing the Solid Work of the outer shell of the robot
 
-# Heading 1 #
+##### STM32F407 Microcontroller Set up: #####
 
     // Enable the clock to the GPIO D-port
     //
@@ -32,5 +32,5 @@
                 HAL_GPIO_Init( GPIOA, &GPIO_Init ); //commandline to initialize the GPIO port
       // define a variable called Counter
  
-##### STM32F407 Microcontroller: #####
+
 ![alt text](https://github.com/Suchawit/Line-Tracking-Robot/blob/main/Robot_without_case.jpg)
