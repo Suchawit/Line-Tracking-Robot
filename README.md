@@ -35,7 +35,7 @@
 
 ![alt text](https://github.com/Suchawit/Line-Tracking-Robot/blob/main/Robot_without_case.jpg)
 
-
+##### Movement Algorithm: #####
        if ((  HAL_GPIO_ReadPin(GPIOA, GPIO_PIN_0) && x==0 ))
         {
     	 HAL_GPIO_WritePin( GPIOE, GPIO_PIN_8|GPIO_PIN_9|GPIO_PIN_10|GPIO_PIN_11|GPIO_PIN_13|GPIO_PIN_14, GPIO_PIN_RESET );
@@ -124,13 +124,5 @@
                                                  x = 0;
                                                    }
 
-
-
-    }
-}
-
-#pragma GCC diagnostic pop
-
-// ----------------------------------------------------------------------------
 
 
