@@ -9,4 +9,4 @@
 * Designing the Solid Work of the outer shell of the robot
 
 ##### STM32F407 Microcontroller: #####
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/Suchawit/Line-Tracking-Robot/blob/main/Robot_without_case.jpg)
