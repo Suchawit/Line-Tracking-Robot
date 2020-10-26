@@ -33,7 +33,6 @@
       // define a variable called Counter
  
 
-![alt text](https://github.com/Suchawit/Line-Tracking-Robot/blob/main/Robot_without_case.jpg)
 
 ##### Movement Algorithm: #####
        if ((  HAL_GPIO_ReadPin(GPIOA, GPIO_PIN_0) && x==0 ))
@@ -123,7 +122,7 @@
                trace_printf(" x = %d", x);
                                                  x = 0;
                                                    }
+## Demo Cick to watch
 
-
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/m0jlfqc-8eE)
+[![Watch the video](https://github.com/Suchawit/Line-Tracking-Robot/blob/main/Robot_without_case.jpg)](https://youtu.be/m0jlfqc-8eE)
 
