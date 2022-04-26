@@ -2,7 +2,7 @@
 ### This project is from UVic 299 course 2017 ###
 
 #### Objectives of the project: #####
-* To analyze and set up the steps of building the robot. 
+* Analyzing and seting up the steps of building the robot. 
 * Arranging all components in the proper location and  designing the schematic of the PCB 
 * Shipping the PCB layout to the AP circuit, and soldering all the component on the PCB
 * Writing the code for the IR sensor and the code for adjusting the movement of the robot using STM microcontroller
